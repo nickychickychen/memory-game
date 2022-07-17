@@ -1,0 +1,22 @@
+{
+  "name": "memory-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickychickychen/memory-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickychickychen/memory-game/issues"
+  },
+  "homepage": "https://github.com/nickychickychen/memory-game#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
